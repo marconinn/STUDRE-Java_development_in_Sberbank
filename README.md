@@ -1,5 +1,8 @@
 # STUDRE-Java_development_in_Sberbank
-The program implemented for the virtual internship of Sberbank in the direction of Java development.
+The program implemented for the virtual internship of Sberbank in the direction of Java development. /
+Программа, реализованная для виртуальной стажировки Сбербанка по направлению Java-разработка.
+
+# Задачи
 
 **1) Необходимо реализовать класс Main, используя java.util.Scanner, прочесть информацию из текстового представления справочника и разложить данные в модель City.**
 
